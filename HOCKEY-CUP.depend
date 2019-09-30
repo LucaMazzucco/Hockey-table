@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1400883729 source:d:\luca\programmi in c\hockey-cup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
